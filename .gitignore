@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+outputs/
+*.blend1
+*.blend
+*.obj  # Opcional: ignora el modelo OBJ si no quieres subirlo
+*.mtl  # Opcional: ignora materiales asociados al OBJ
